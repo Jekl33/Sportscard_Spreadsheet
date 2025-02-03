@@ -1,2 +1,5 @@
 # Sportscard_Spreadsheet
-# This is my first project consisting of using a spreadsheet gleaned from market movers and cleaned to find the 5 best players and the 2 most popular cards of that player with high volatility to take advantage of the sports card market and make money. 
+# This is my first project consisting of using a spreadsheet gleaned from market movers and cleaned to find the 5 best players and the most popular card of that player with high volatility to take advantage of the sports card market and make money. 
+# I included the first .csv data file for original info and also included a .pdf file to show the updated files
+# Using excel I was able to find that by cleaning the data and adding a pivot chart there was one card (Victor Wembanyama) that was skewing results in average sales. I did not want to get rid of the outlier since most buyers would want the most popular card. Further exploration would be to use volume fluctuations in 30,60,90, 180, and 360 day intervals to determine the popularity of the outlier. I would also further investigate whether price point has affect on popularity of cards. 
+# From a business standpoint, I would check the volatility of these cards to determine positive and negative volatility and positive upward cost to take advantage of volatility swings of 20%.
